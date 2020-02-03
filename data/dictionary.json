@@ -7,11 +7,11 @@
 			"the answer to every question in computer science principles.",
 			"best chance of earning candy passes."
 		],
-		"source_person" : [
+		"author" : [
 			"Lynne Norris",
 			"Lynne Norris"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology",
 			"Center for Information Technology"
 		],
@@ -24,10 +24,10 @@
 		"definition" : [
 			"sexy network security attacks."
 		],
-		"source_person" : [
+		"author" : [
 			"Christopher Neville"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -39,10 +39,10 @@
 		"definition" : [
 			"the act of."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -54,10 +54,10 @@
 		"definition" : [
 			"to cancel out two opposite expressions."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -69,10 +69,10 @@
 		"definition" : [
 			"to flip an equation around in order to show its inverse function."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -84,10 +84,10 @@
 		"definition" : [
 			"to create a conic section from a cone."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -99,10 +99,10 @@
 		"definition" : [
 			"to swap elements in a heap, change the places of two things."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -114,10 +114,10 @@
 		"definition" : [
 			"a true, but potentially surprising statement for some."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -129,10 +129,10 @@
 		"definition" : [
 			"a sorting system for trigonometric functions that deals with the types of inputs and outputs."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -144,25 +144,25 @@
 		"definition" : [
 			"refers to dr. palens discrete mathematics class."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
 	},
 	"11" : {
-		"term" : "\\#NAME?",
+		"term" : "-arate",
 		"pronunciation" : "&#593;r&#183;e&#618;t",
 		"part_of_speech" : "suffix",
 		"definition" : [
 			"to do."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -174,10 +174,10 @@
 		"definition" : [
 			"see duh factor."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -189,10 +189,10 @@
 		"definition" : [
 			"someone who changes things on their computer when dr. palen walks over."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -204,10 +204,10 @@
 		"definition" : [
 			"someone else has found a cleaner solution."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -220,11 +220,11 @@
 			"use the rows of pascal's triangle.",
 			"your other favorite theorem."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen",
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology",
 			"Center for Information Technology"
 		],
@@ -237,10 +237,10 @@
 		"definition" : [
 			"useless words in a word problem."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -252,10 +252,10 @@
 		"definition" : [
 			"a hole on a calculator."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -267,10 +267,10 @@
 		"definition" : [
 			"a bump on the graph."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -283,11 +283,11 @@
 			"everything you need to know is inside these.",
 			"something that must only contain truth."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen",
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology",
 			"Center for Information Technology"
 		],
@@ -300,10 +300,10 @@
 		"definition" : [
 			"the second part of lunch."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -315,10 +315,10 @@
 		"definition" : [
 			"the sound you make when you solve an easy problem."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -330,10 +330,10 @@
 		"definition" : [
 			"the fastest calculator."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -345,10 +345,10 @@
 		"definition" : [
 			"someone who you show a derivative to in order to find the meaning."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -360,10 +360,10 @@
 		"definition" : [
 			"the prize given in mr. texler's class that is often confused with brownies.."
 		],
-		"source_person" : [
+		"author" : [
 			"Kareem Texler"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -375,10 +375,10 @@
 		"definition" : [
 			"the result of taping a brown e onto mr. texler's knee."
 		],
-		"source_person" : [
-			"cit students"
+		"author" : [
+			"students"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -390,10 +390,10 @@
 		"definition" : [
 			"to bubble in a bubble (answer) sheet."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -405,10 +405,10 @@
 		"definition" : [
 			"count the bumps and add one."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -420,10 +420,10 @@
 		"definition" : [
 			"to get something done in a much shorter period of time than intended."
 		],
-		"source_person" : [
+		"author" : [
 			"Julie Skinner"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -435,10 +435,10 @@
 		"definition" : [
 			"c hashtag."
 		],
-		"source_person" : [
-			"other"
+		"author" : [
+			"student"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -451,11 +451,11 @@
 			"slower than a human brain.",
 			"best when clunky and powerful."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen",
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology",
 			"Center for Information Technology"
 		],
@@ -469,11 +469,11 @@
 			"a subject easier than pre-calculus.",
 			"bonkers... and awesome."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen",
 			"Christopher Neville"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology",
 			"Center for Information Technology"
 		],
@@ -486,10 +486,10 @@
 		"definition" : [
 			"like the olympics but without the winter ones."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -501,10 +501,10 @@
 		"definition" : [
 			"drawn by writing the name out."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -516,10 +516,10 @@
 		"definition" : [
 			"a student which takes capstone."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -531,10 +531,10 @@
 		"definition" : [
 			"someone who draws their triangles in the right quadrants."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -546,10 +546,10 @@
 		"definition" : [
 			"a really easy problem on a hard math test."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -561,10 +561,10 @@
 		"definition" : [
 			"c(1 - (x/r1))(1 - (x/r2))."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -576,10 +576,10 @@
 		"definition" : [
 			"ensures quality."
 		],
-		"source_person" : [
+		"author" : [
 			"Lynne Norris"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -591,10 +591,10 @@
 		"definition" : [
 			"to cross an ayssmptote."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -606,10 +606,10 @@
 		"definition" : [
 			"when it is very cold."
 		],
-		"source_person" : [
+		"author" : [
 			"Julie Skinner"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -621,10 +621,10 @@
 		"definition" : [
 			"to fix an error."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -634,12 +634,12 @@
 		"pronunciation" : "k&#652;&#183;mu&#183;n&#618;&#183;ke&#618;&#183;t&#643;&#652;n",
 		"part_of_speech" : "noun",
 		"definition" : [
-			"90\\\\% of the project manager’s job."
+			"90% of the project manager’s job."
 		],
-		"source_person" : [
+		"author" : [
 			"Lynne Norris"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -651,10 +651,10 @@
 		"definition" : [
 			"how do you still not know how to do this?."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -666,10 +666,10 @@
 		"definition" : [
 			"easily convinced person."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -681,10 +681,10 @@
 		"definition" : [
 			"something that must be added to documentation.."
 		],
-		"source_person" : [
+		"author" : [
 			"Lynne Norris"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -696,10 +696,10 @@
 		"definition" : [
 			"people who understand cartesian and polar coordinates."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -711,10 +711,10 @@
 		"definition" : [
 			"the sound of eating an apple."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -726,10 +726,10 @@
 		"definition" : [
 			"to do arithmetic."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -741,10 +741,10 @@
 		"definition" : [
 			"numbers you learn in trig."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -756,10 +756,10 @@
 		"definition" : [
 			"see lim=."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -771,10 +771,10 @@
 		"definition" : [
 			"a problem no one can solve, except for the only people in the drhs programming competition who can't program."
 		],
-		"source_person" : [
-			"other"
+		"author" : [
+			"student"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -786,10 +786,10 @@
 		"definition" : [
 			"they run the world."
 		],
-		"source_person" : [
+		"author" : [
 			"Lynne Norris"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -802,11 +802,11 @@
 			"you should never use these.",
 			"the unnatrual unit."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen",
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology",
 			"Center for Information Technology"
 		],
@@ -819,10 +819,10 @@
 		"definition" : [
 			"to use de morgan's law to simplify something, duh!."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -834,10 +834,10 @@
 		"definition" : [
 			"what one does when he/she does not know a formula."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -849,10 +849,10 @@
 		"definition" : [
 			"something that shouldn't be limited to what you can visualize."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -865,11 +865,11 @@
 			"things you pick up along the way.",
 			"math you could teach 3rd graders."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen",
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology",
 			"Center for Information Technology"
 		],
@@ -882,10 +882,10 @@
 		"definition" : [
 			"the reason for how you got the correct answer without showing any work."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -897,10 +897,10 @@
 		"definition" : [
 			"a 64 bit number, first 32 bits for the whole number and final 32 bits for the decimal."
 		],
-		"source_person" : [
+		"author" : [
 			"Christopher Neville"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -912,10 +912,10 @@
 		"definition" : [
 			"the process of writing out the solution of a limit you already know."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -927,10 +927,10 @@
 		"definition" : [
 			"to solve a problem."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -942,10 +942,10 @@
 		"definition" : [
 			"the factor that allows you to assume an axiom is true."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -957,10 +957,10 @@
 		"definition" : [
 			"to take action."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -972,10 +972,10 @@
 		"definition" : [
 			"to focus a projector."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -987,10 +987,10 @@
 		"definition" : [
 			"to search for a thing on google."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -1002,10 +1002,10 @@
 		"definition" : [
 			"to substitute terms in an expression for other, typically simpler, terms."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -1017,10 +1017,10 @@
 		"definition" : [
 			"to flip one's x's and y's."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -1032,10 +1032,10 @@
 		"definition" : [
 			"to take a test."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -1047,10 +1047,10 @@
 		"definition" : [
 			"means equals if written."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -1062,10 +1062,10 @@
 		"definition" : [
 			"is it illegal? is it against the rules? who does it affect and how?."
 		],
-		"source_person" : [
+		"author" : [
 			"Lynne Norris"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -1077,10 +1077,10 @@
 		"definition" : [
 			"reaching an answer using many tricks."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -1092,10 +1092,10 @@
 		"definition" : [
 			"the definite outcome of dividing by zero (only chuck norris can divide by zero)."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -1107,10 +1107,10 @@
 		"definition" : [
 			"killer of exponents."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -1122,10 +1122,10 @@
 		"definition" : [
 			"belief that a solution works."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -1137,10 +1137,10 @@
 		"definition" : [
 			"runs in o(1) time, fastest sorting algorithm, just have faith it is sorted."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -1152,10 +1152,10 @@
 		"definition" : [
 			"i'm about to show you that you actually do."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -1167,10 +1167,10 @@
 		"definition" : [
 			"in reference to william benton leimberger."
 		],
-		"source_person" : [
-			"other"
+		"author" : [
+			"student"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -1182,10 +1182,10 @@
 		"definition" : [
 			"probably smaller than sixteen."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -1197,10 +1197,10 @@
 		"definition" : [
 			"function of functions, see recursion."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -1212,10 +1212,10 @@
 		"definition" : [
 			"something you must pass through to enter the next area."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -1227,10 +1227,10 @@
 		"definition" : [
 			"challenging quizzes that you must retake until you score a perfect or near perfect score."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -1242,10 +1242,10 @@
 		"definition" : [
 			"a class everyone takes and forgets everything they learned."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -1257,10 +1257,10 @@
 		"definition" : [
 			"to use the pythagorean theorem."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -1272,10 +1272,10 @@
 		"definition" : [
 			"easy change-ups."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -1287,10 +1287,10 @@
 		"definition" : [
 			"animals that if i was, then i could swallow molten metal."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -1303,11 +1303,11 @@
 			"see no.",
 			"when a schedule gets off schedule."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen",
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology",
 			"Center for Information Technology"
 		],
@@ -1320,10 +1320,10 @@
 		"definition" : [
 			"those who don't use calculators on a poker quiz."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -1335,10 +1335,10 @@
 		"definition" : [
 			"someone who does their homework in many colors."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -1350,10 +1350,10 @@
 		"definition" : [
 			"something that should probably be updated once every 9 weeks."
 		],
-		"source_person" : [
+		"author" : [
 			"Christopher Neville"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -1365,10 +1365,10 @@
 		"definition" : [
 			"still works, can confirm."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -1380,10 +1380,10 @@
 		"definition" : [
 			"not a blue box, but it still has knowledge."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -1395,10 +1395,10 @@
 		"definition" : [
 			"is it though?."
 		],
-		"source_person" : [
+		"author" : [
 			"Lynne Norris"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -1410,10 +1410,10 @@
 		"definition" : [
 			"a word that adds context."
 		],
-		"source_person" : [
+		"author" : [
 			"Lynne Norris"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -1425,10 +1425,10 @@
 		"definition" : [
 			"?."
 		],
-		"source_person" : [
+		"author" : [
 			"Christopher Neville"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -1440,10 +1440,10 @@
 		"definition" : [
 			"equivalent to hello."
 		],
-		"source_person" : [
-			"cit students"
+		"author" : [
+			"students"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -1455,10 +1455,10 @@
 		"definition" : [
 			"someone who does not rub their nose on the wall."
 		],
-		"source_person" : [
+		"author" : [
 			"Christopher Neville"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -1470,10 +1470,10 @@
 		"definition" : [
 			"the object of a game in which a hockey puck is used as replacements for all other normal sports objects."
 		],
-		"source_person" : [
+		"author" : [
 			"Christopher Neville"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -1486,11 +1486,11 @@
 			"an inferior being.",
 			"a being that tends to learn something then forget it."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen",
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology",
 			"Center for Information Technology"
 		],
@@ -1503,10 +1503,10 @@
 		"definition" : [
 			"easier than euclidian geometry."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -1518,10 +1518,10 @@
 		"definition" : [
 			"show it works somewhere, show it works for any n, show it works for n+1."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -1533,10 +1533,10 @@
 		"definition" : [
 			"i don't always forget a base case, but when i don't always forget a base case..."
 		],
-		"source_person" : [
+		"author" : [
 			"Christopher Neville"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -1548,10 +1548,10 @@
 		"definition" : [
 			"to compete in a mathematics competition."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -1563,10 +1563,10 @@
 		"definition" : [
 			"no!."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -1578,10 +1578,10 @@
 		"definition" : [
 			"easily convinced person."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -1593,10 +1593,10 @@
 		"definition" : [
 			"one who you must thank for not having to teach web design."
 		],
-		"source_person" : [
+		"author" : [
 			"Christopher Neville"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -1608,10 +1608,10 @@
 		"definition" : [
 			"the hub of mrs. skinner's social life."
 		],
-		"source_person" : [
+		"author" : [
 			"Julie Skinner"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -1623,10 +1623,10 @@
 		"definition" : [
 			"something that one should do when falling asleep."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -1638,10 +1638,10 @@
 		"definition" : [
 			"this will be on the test."
 		],
-		"source_person" : [
+		"author" : [
 			"Lynne Norris"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -1653,10 +1653,10 @@
 		"definition" : [
 			"describes the shift of a sinusoidal graph on the y-axis."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -1668,10 +1668,10 @@
 		"definition" : [
 			"to simplify an equation or expression."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -1683,10 +1683,10 @@
 		"definition" : [
 			"not to be confused with \"know\"."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -1698,10 +1698,10 @@
 		"definition" : [
 			"not to be confused with know."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -1713,10 +1713,10 @@
 		"definition" : [
 			"to use l'hôpital's rule to solve a limit."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -1728,10 +1728,10 @@
 		"definition" : [
 			"something you hope your teachers did not do, even though you cannot prove what they gave you."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -1743,10 +1743,10 @@
 		"definition" : [
 			"no."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -1758,10 +1758,10 @@
 		"definition" : [
 			"i'm here and i'm going nananananana."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -1773,10 +1773,10 @@
 		"definition" : [
 			"$\\forall \\epsilon >0\\ \\exists \\ \\delta >0 \\ni |x-a|<|f(x)-L|<\\epsilon$."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -1788,10 +1788,10 @@
 		"definition" : [
 			"use ln(x) instead, only used by engineers, not mathematicians."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -1803,10 +1803,10 @@
 		"definition" : [
 			"something everyone who knows addition should know how to do."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -1818,10 +1818,10 @@
 		"definition" : [
 			"something someone does when someone else forgets the pythagorean theorem."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -1833,10 +1833,10 @@
 		"definition" : [
 			"also known as a computer, black in color. very useful when one does not know an answer."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -1848,10 +1848,10 @@
 		"definition" : [
 			"the amount of time that a group is considered to have when working on an assignment."
 		],
-		"source_person" : [
+		"author" : [
 			"Lynne Norris"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -1864,11 +1864,11 @@
 			"says things more carefully.",
 			"the only reason to come to school."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen",
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology",
 			"Center for Information Technology"
 		],
@@ -1881,10 +1881,10 @@
 		"definition" : [
 			"pronounced \"math dot pow!!!\"."
 		],
-		"source_person" : [
+		"author" : [
 			"Christopher Neville"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -1896,10 +1896,10 @@
 		"definition" : [
 			"a superior being."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -1911,10 +1911,10 @@
 		"definition" : [
 			"something that results in the same answer every time, but only when it works; something that takes too long to teach all of."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -1926,10 +1926,10 @@
 		"definition" : [
 			"dr. palens favorite drink."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -1941,10 +1941,10 @@
 		"definition" : [
 			"a type of question where only the answer choices are necessary; you do not need to read the question itself."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -1956,10 +1956,10 @@
 		"definition" : [
 			"what mr. neville wrote about in grade school writing assignments.."
 		],
-		"source_person" : [
+		"author" : [
 			"Christopher Neville"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -1971,10 +1971,10 @@
 		"definition" : [
 			"a useless crypto-currency with a market that collapses nearly contsantly."
 		],
-		"source_person" : [
+		"author" : [
 			"Christopher Neville"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -1987,11 +1987,11 @@
 			"taking log of a non-positive number or any other outcome that is not possible.",
 			"dividing by 0."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen",
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology",
 			"Center for Information Technology"
 		],
@@ -2004,10 +2004,10 @@
 		"definition" : [
 			"literally worse than north korea."
 		],
-		"source_person" : [
+		"author" : [
 			"Christopher Neville"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -2019,10 +2019,10 @@
 		"definition" : [
 			"not going to happen."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -2034,10 +2034,10 @@
 		"definition" : [
 			"less than once."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -2049,10 +2049,10 @@
 		"definition" : [
 			"object oriented."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -2064,10 +2064,10 @@
 		"definition" : [
 			"the moment you realize how to do a question on a test."
 		],
-		"source_person" : [
-			"cit students"
+		"author" : [
+			"students"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -2079,10 +2079,10 @@
 		"definition" : [
 			"might be greater than 0."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -2094,10 +2094,10 @@
 		"definition" : [
 			"why didn't you tell me i made a mistake?."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -2109,10 +2109,10 @@
 		"definition" : [
 			"something only mr. neville cares about."
 		],
-		"source_person" : [
+		"author" : [
 			"Christopher Neville"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -2124,10 +2124,10 @@
 		"definition" : [
 			"chance to fix one of palen's errors."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -2139,10 +2139,10 @@
 		"definition" : [
 			"palen's power polynomial, polynomial to the power of palen."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -2154,10 +2154,10 @@
 		"definition" : [
 			"the indicator that you should go eat some food."
 		],
-		"source_person" : [
+		"author" : [
 			"Christopher Neville"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -2169,25 +2169,25 @@
 		"definition" : [
 			"used to find the answer to any mathematics problem imaginable."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
 	},
 	"144" : {
-		"term" : "\\#NAME?",
+		"term" : "-perate",
 		"pronunciation" : "p&#601;r&#183;e&#618;t",
 		"part_of_speech" : "suffix",
 		"definition" : [
 			"to do."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -2199,10 +2199,10 @@
 		"definition" : [
 			"the infamous programming team that solved the dark green balloon problem even though they never wrote a program."
 		],
-		"source_person" : [
-			"other"
+		"author" : [
+			"student"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -2214,10 +2214,10 @@
 		"definition" : [
 			"30$^{\\circ}$, 60$^{\\circ}$, 90$^{\\circ}$  triangle."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -2229,10 +2229,10 @@
 		"definition" : [
 			"the best type of integrals."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -2245,11 +2245,11 @@
 			"project management institute.",
 			"principle of mathematics induction."
 		],
-		"source_person" : [
+		"author" : [
 			"Lynne Norris",
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology",
 			"Center for Information Technology"
 		],
@@ -2262,10 +2262,10 @@
 		"definition" : [
 			"neville doesn't like it."
 		],
-		"source_person" : [
+		"author" : [
 			"Christopher Neville"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -2277,10 +2277,10 @@
 		"definition" : [
 			"the rootinest tootinest law of exponents in the wild west."
 		],
-		"source_person" : [
+		"author" : [
 			"Kareem Texler"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -2292,10 +2292,10 @@
 		"definition" : [
 			"in reference to the psat."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -2307,10 +2307,10 @@
 		"definition" : [
 			"the default unit in algebra ii."
 		],
-		"source_person" : [
+		"author" : [
 			"Kareem Texler"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -2322,10 +2322,10 @@
 		"definition" : [
 			"ln|secx + tanx| + c."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -2338,11 +2338,11 @@
 			"use you favorite theorem.",
 			"to find the third side length of a triangle."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen",
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology",
 			"Center for Information Technology"
 		],
@@ -2355,10 +2355,10 @@
 		"definition" : [
 			"the result of pythagorating."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -2370,10 +2370,10 @@
 		"definition" : [
 			"one, if able to reallocate a third of the brain capacity currently dedicated to useless information to something remotely useful, would be a strong and smart person."
 		],
-		"source_person" : [
+		"author" : [
 			"Christopher Neville"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -2385,10 +2385,10 @@
 		"definition" : [
 			"ta-da!."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -2400,10 +2400,10 @@
 		"definition" : [
 			"see \"recursion\"."
 		],
-		"source_person" : [
+		"author" : [
 			"Christopher Neville"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -2415,10 +2415,10 @@
 		"definition" : [
 			"the wonderful feeling you get when you finally derive a formula you were given without explanation."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -2430,10 +2430,10 @@
 		"definition" : [
 			"palen doesn’t want to have to keep explaining it to you."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -2445,10 +2445,10 @@
 		"definition" : [
 			"mrs. norris' rhetorical question; answer \"yes\" no matter what."
 		],
-		"source_person" : [
+		"author" : [
 			"Lynne Norris"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -2460,10 +2460,10 @@
 		"definition" : [
 			"2 * 6 = c."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -2475,10 +2475,10 @@
 		"definition" : [
 			"focus \\\\#deliver."
 		],
-		"source_person" : [
+		"author" : [
 			"Lynne Norris"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -2490,10 +2490,10 @@
 		"definition" : [
 			"friday."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -2505,10 +2505,10 @@
 		"definition" : [
 			"a blender that uses machine learning algorithms and neural networks to understand when to blend the input and executes that action."
 		],
-		"source_person" : [
+		"author" : [
 			"Christopher Neville"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -2520,10 +2520,10 @@
 		"definition" : [
 			"probably to the right of one on a number line."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -2535,10 +2535,10 @@
 		"definition" : [
 			"a line that is neither vertical nor horizontal."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -2550,10 +2550,10 @@
 		"definition" : [
 			"people who are unnecessarily scared by formulas."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -2565,10 +2565,10 @@
 		"definition" : [
 			"a question that asks for something that doesn't exist."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -2580,10 +2580,10 @@
 		"definition" : [
 			"sin(a) = 5/8."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -2595,10 +2595,10 @@
 		"definition" : [
 			"to take points off with reckless abandon."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -2610,10 +2610,10 @@
 		"definition" : [
 			"not a sport."
 		],
-		"source_person" : [
+		"author" : [
 			"Christopher Neville"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -2625,10 +2625,10 @@
 		"definition" : [
 			"a game with only one team and a super big goal."
 		],
-		"source_person" : [
+		"author" : [
 			"Christopher Neville"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -2640,10 +2640,10 @@
 		"definition" : [
 			"the worst assignment ever."
 		],
-		"source_person" : [
+		"author" : [
 			"Lynne Norris"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -2655,10 +2655,10 @@
 		"definition" : [
 			"to take an sol."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -2670,10 +2670,10 @@
 		"definition" : [
 			"a math teacher that uses degrees."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -2685,10 +2685,10 @@
 		"definition" : [
 			"the time when the massive game of civ that never happens will happen."
 		],
-		"source_person" : [
-			"cit students"
+		"author" : [
+			"students"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -2700,10 +2700,10 @@
 		"definition" : [
 			"plural of sophomore."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -2717,12 +2717,12 @@
 			"neville's method for wasting time.",
 			"to be repeated until class is over."
 		],
-		"source_person" : [
+		"author" : [
 			"Christopher Neville",
 			"Christopher Neville",
 			"Christopher Neville"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology",
 			"Center for Information Technology",
 			"Center for Information Technology"
@@ -2736,10 +2736,10 @@
 		"definition" : [
 			"\\\\#skinnerapproved, the proper way to read books."
 		],
-		"source_person" : [
+		"author" : [
 			"Julie Skinner"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -2749,12 +2749,12 @@
 		"pronunciation" : "st&aelig;k  o&#650;&#183;v&#596;r&#183;flo&#650;",
 		"part_of_speech" : "noun",
 		"definition" : [
-			"students have sweated a lot to get this site unblocked just so that the incoming cit students could have a better life; it is also mr. neville's favorite website."
+			"students have sweated a lot to get this site unblocked just so that the incoming students could have a better life; it is also mr. neville's favorite website."
 		],
-		"source_person" : [
+		"author" : [
 			"Christopher Neville"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -2766,10 +2766,10 @@
 		"definition" : [
 			"someone who affects or is affected by the project."
 		],
-		"source_person" : [
+		"author" : [
 			"Lynne Norris"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -2781,10 +2781,10 @@
 		"definition" : [
 			"the area on scratch paper reserved for staples to make sure that work is not lost."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -2796,10 +2796,10 @@
 		"definition" : [
 			"stupid by definition."
 		],
-		"source_person" : [
+		"author" : [
 			"Christopher Neville"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -2811,10 +2811,10 @@
 		"definition" : [
 			"to subtract."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -2826,10 +2826,10 @@
 		"definition" : [
 			"to switch the numbers along the diagonal in a matrix when finding the inverse matrix."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -2841,10 +2841,10 @@
 		"definition" : [
 			"without which, a team would be not."
 		],
-		"source_person" : [
+		"author" : [
 			"Lynne Norris"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -2856,10 +2856,10 @@
 		"definition" : [
 			"the sound you have to make when drawing dotted lines."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -2871,10 +2871,10 @@
 		"definition" : [
 			"a tangent about tangent."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -2886,10 +2886,10 @@
 		"definition" : [
 			"a magical place where they create the steps in between."
 		],
-		"source_person" : [
+		"author" : [
 			"Christopher Neville"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -2901,10 +2901,10 @@
 		"definition" : [
 			"seven."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -2918,12 +2918,12 @@
 			"a programming team in which the original 100 people have never been together since their first competition.",
 			"a programming team that gets all of their problems in the first hour, and then takes a vacation for the remaining 2-3 hours."
 		],
-		"source_person" : [
-			"other",
-			"other",
-			"other"
+		"author" : [
+			"student",
+			"student",
+			"student"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology",
 			"Center for Information Technology",
 			"Center for Information Technology"
@@ -2937,10 +2937,10 @@
 		"definition" : [
 			"the big network."
 		],
-		"source_person" : [
+		"author" : [
 			"Christopher Neville"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -2952,10 +2952,10 @@
 		"definition" : [
 			"those who are expected to get the right answer."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -2967,10 +2967,10 @@
 		"definition" : [
 			"all anyone did in geometry."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -2982,10 +2982,10 @@
 		"definition" : [
 			"a number equal to 5 - 6."
 		],
-		"source_person" : [
+		"author" : [
 			"Christopher Neville"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -2997,10 +2997,10 @@
 		"definition" : [
 			"important."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -3012,10 +3012,10 @@
 		"definition" : [
 			"something everyone learns to do in college."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -3027,10 +3027,10 @@
 		"definition" : [
 			"the next day of class."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -3042,10 +3042,10 @@
 		"definition" : [
 			"you don't need to spend a semester on this; can be taught in a 45 min block."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -3057,10 +3057,10 @@
 		"definition" : [
 			"the root of all math."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -3072,10 +3072,10 @@
 		"definition" : [
 			"to start at the beginning and end at the end."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -3087,10 +3087,10 @@
 		"definition" : [
 			"to take easy classes senior year of high school."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -3102,10 +3102,10 @@
 		"definition" : [
 			"not a powerpoint."
 		],
-		"source_person" : [
+		"author" : [
 			"Lynne Norris"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -3117,10 +3117,10 @@
 		"definition" : [
 			"to catch errors."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -3133,11 +3133,11 @@
 			"shallowest point of inflection.",
 			"fake max value."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen",
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology",
 			"Center for Information Technology"
 		],
@@ -3150,10 +3150,10 @@
 		"definition" : [
 			"to fail on a problem."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -3165,10 +3165,10 @@
 		"definition" : [
 			"the shape of a segment of a tangent graph."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -3180,10 +3180,10 @@
 		"definition" : [
 			"describes a function that when converted to parametric yields two sinusoidal functions."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -3195,10 +3195,10 @@
 		"definition" : [
 			"words used to remember the answers to multiple choice questions."
 		],
-		"source_person" : [
-			"cit students"
+		"author" : [
+			"students"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -3210,10 +3210,10 @@
 		"definition" : [
 			"someone who hunts for easy problems."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -3225,10 +3225,10 @@
 		"definition" : [
 			"it's too complicated."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -3240,10 +3240,10 @@
 		"definition" : [
 			"the last day of classs."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -3253,12 +3253,12 @@
 		"pronunciation" : "jo&#650;  si  e&#618;  d&#618;d&#183;&#603;nt  pe&#618;  &theta;&#603;m  to&#650;  se&#618;  &theta;&aelig;t",
 		"part_of_speech" : "phrase",
 		"definition" : [
-			"something that mrs. norris says in front of important people when cit students start praising documentation and lessons learned."
+			"something that mrs. norris says in front of important people when students start praising documentation and lessons learned."
 		],
-		"source_person" : [
+		"author" : [
 			"Lynne Norris"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -3270,10 +3270,10 @@
 		"definition" : [
 			"integers."
 		],
-		"source_person" : [
-			"cit students"
+		"author" : [
+			"students"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -3285,40 +3285,40 @@
 		"definition" : [
 			"sound that must be made when drawing an exponential function."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
 	},
 	"217" : {
-		"term" : "\\\\%",
+		"term" : "%",
 		"pronunciation" : "p&#618;&#601;r&#183;s&#603;nt",
 		"part_of_speech" : "noun",
 		"definition" : [
 			"not the modulus operator."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
 	},
 	"218" : {
-		"term" : "100\\\\% chance",
+		"term" : "100% chance",
 		"pronunciation" : "w&#652;n  h&#652;n&#183;dr&#603;d  p&#618;&#601;r&#183;s&#603;nt  t&#643;&aelig;ns",
 		"part_of_speech" : "noun",
 		"definition" : [
 			"does not mean it will definitely happen."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology"
 		],
 		"timestamp" : 1580707202628
@@ -3331,11 +3331,11 @@
 			"a math problem that no one in pre-calc knows the answer to.",
 			"it is known to possibly be equal to 56, 71, 73, 76, and 81."
 		],
-		"source_person" : [
+		"author" : [
 			"Joseph Palen",
 			"Joseph Palen"
 		],
-		"source_school" : [
+		"school" : [
 			"Center for Information Technology",
 			"Center for Information Technology"
 		],

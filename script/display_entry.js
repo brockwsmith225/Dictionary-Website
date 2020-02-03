@@ -1,14 +1,13 @@
 function display_entry(term_id) {
-	console.log(term_id);
 	$.getJSON("data/dictionary.json", function(dictionary) {
 		var entry = dictionary[term_id];
-		$("body").append('<div id="' + term_id + '" class=\"entry\">'
+		$("#page-content").append('<div id="' + term_id + '" class=\"entry\">'
 			+ '<h1 class="term">' + entry.term + '</h1>'
 			+ '<h2 class="part-of-speech">' + entry.part_of_speech + '.</h2>'
 			+ '<h2 class="pronunciation">/ ' + entry.pronunciation + ' /</h2>'
 			+ '<ol class="definitions"></ol></div>');
 		for (var i = 0; i < entry.definition.length; i++) {
-			$("#" + term_id + " .definitions").html($("#" + term_id + " .definitions").html() + "<li class=\"definition\">" + entry.definition[i] + "<span class=\"source\">" + entry.source_person[i] + " / " + entry.source_school[i] + "</span></li>")
+			$("#" + term_id + " .definitions").html($("#" + term_id + " .definitions").html() + "<li class=\"definition\">" + entry.definition[i] + "<span class=\"source\"><a href=\"?author=" + entry.author[i] + "\">" + entry.author[i] + "</a> / <a href=\"?school=" + entry.school[i] + "\">" + entry.school[i] + "</a></span></li>")
 		}
 		$("#entry").show();
 	});
@@ -26,27 +25,91 @@ function display_random_entry() {
 
 function display_recent_entries(n) {
 	$.getJSON("data/dictionary.json", function(dictionary) {
-		var most_recent_entries = [];
+		var entries = [];
 		for (var id in dictionary) {
 			var entry = dictionary[id];
-			if (most_recent_entries.length == 0) {
-				most_recent_entries.push(id);
-			} else if (entry.timestamp >= dictionary[most_recent_entries[most_recent_entries.length-1]].timestamp) {
-				if (most_recent_entries.length < n) {
-					most_recent_entries.push(id);
-				} else if (entry.timestamp > dictionary[most_recent_entries[most_recent_entries.length-1]].timestamp) {
+			if (entries.length == 0) {
+				entries.push(id);
+			} else if (entry.timestamp >= dictionary[entries[entries.length-1]].timestamp) {
+				if (entries.length < n) {
+					entries.push(id);
+				} else if (entry.timestamp > dictionary[entries[entries.length-1]].timestamp) {
 					for (var i = 0; i < n; i++) {
-						if (entry.timestamp > dictionary[most_recent_entries[i]].timestamp) {
-							most_recent_entries.splice(i, 0, id);
+						if (entry.timestamp > dictionary[entries[i]].timestamp) {
+							entries.splice(i, 0, id);
+							i = n;
 						}
 					}
-					most_recent_entries.pop();
+					entries.pop();
 				}
 			}
 		}
-		console.log(most_recent_entries);
-		for (var entry in most_recent_entries) {
-			display_entry(most_recent_entries[entry]);
+		var entries_added = 0;
+		for (var entry in entries) {
+			if (MAX_ENTRIES == -1 || entries_added < MAX_ENTRIES) {
+				display_entry(entries[entry]);
+				entries_added++;
+			}
+		}
+	});
+}
+
+function display_entries_with_author(author) {
+	$.getJSON("data/dictionary.json", function(dictionary) {
+		$("#page-content").append("<h1 class=\"search-term\">\"" + author + "\"</h1>");
+		var entries = [];
+		for (var id in dictionary) {
+			var entry = dictionary[id];
+			if (entry.author == author) {
+				var entry_added = false;
+				for (var i = 0; i < entries.length; i++) {
+					if (entry.timestamp > dictionary[entries[i]].timestamp) {
+						entries.splice(i, 0, id);
+						i = entries.length;
+						entry_added = true;
+					}
+				}
+				if (!entry_added) {
+					entries.push(id);
+				}
+			}
+		}
+		var entries_added = 0;
+		for (var entry in entries) {
+			if (MAX_ENTRIES == -1 || entries_added < MAX_ENTRIES) {
+				display_entry(entries[entry]);
+				entries_added++;
+			}
+		}
+	});
+}
+
+function display_entries_with_school(school) {
+	$.getJSON("data/dictionary.json", function(dictionary) {
+		$("#page-content").append("<h1 class=\"search-term\">\"" + school + "\"</h1>");
+		var entries = [];
+		for (var id in dictionary) {
+			var entry = dictionary[id];
+			if (entry.school == school) {
+				var entry_added = false;
+				for (var i = 0; i < entries.length; i++) {
+					if (entry.timestamp > dictionary[entries[i]].timestamp) {
+						entries.splice(i, 0, id);
+						i = entries.length;
+						entry_added = true;
+					}
+				}
+				if (!entry_added) {
+					entries.push(id);
+				}
+			}
+		}
+		var entries_added = 0;
+		for (var entry in entries) {
+			if (MAX_ENTRIES == -1 || entries_added < MAX_ENTRIES) {
+				display_entry(entries[entry]);
+				entries_added++;
+			}
 		}
 	});
 }

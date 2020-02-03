@@ -4,11 +4,12 @@
 	<head>
 		<title>Dictionary</title>
 		<link href="vendor/fontawesome-5.12.0/css/all.min.css" rel="stylesheet" type="text/css" />
+		<link href="style/general.css" rel="stylesheet" />
 		<link href="style/search_bar.css" rel="stylesheet" />
 		<link href="style/definition.css" rel="stylesheet" />
 	</head>
 
-	<body style="margin:0;font-family:'Arial',sans-serif;">
+	<body>
 		<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 		<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
@@ -18,6 +19,10 @@
 				<input id="query" class="search-box-text" name="query" type="text" />
 				<button class="fas fa-search search-box-symbol"></button>
 			</form>
+		</div>
+
+		<div id="page-content" class="container">
+
 		</div>
 
 		<script src="vendor/jquery-3.4.1/jquery.min.js"></script>
