@@ -1,0 +1,53 @@
+.entry {
+	margin-top: 250px;
+	margin-bottom: 250px;
+	padding: 0 15vw;
+}
+
+.term {
+	font-size: 38pt;
+	margin: 0;
+	display: inline-block;
+}
+
+.part-of-speech {
+	font-size: 24pt;
+	display: inline-block;
+	margin: 0;
+	margin-left: 20px;
+	font-weight: 400;
+	font-style: italic;
+	transform: translateY(-2px);
+}
+
+.pronunciation {
+	font-size: 20pt;
+	font-weight: 400;
+}
+
+.definitions {
+list-style: none;
+	counter-reset: counter;
+}
+
+.definition {
+	counter-increment: counter;
+	font-size: 16pt;
+	margin-bottom: 40px;
+	position: relative;
+}
+
+.definition::before {
+	content: counter(counter);
+	color: #777;
+	position: absolute;
+	left: -25px;
+	font-size: 12pt;
+	vertical-align: top;
+}
+
+.source {
+	font-size: 13pt;
+	color: #777;
+	margin-left: 5px;
+}

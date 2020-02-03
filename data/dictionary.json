@@ -1,0 +1,3344 @@
+{
+	"1" : {
+		"term" : "abstraction",
+		"pronunciation" : "&aelig;b&#183;str&aelig;k&#183;t&#643;&#652;n",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"the answer to every question in computer science principles.",
+			"best chance of earning candy passes."
+		],
+		"source_person" : [
+			"Lynne Norris",
+			"Lynne Norris"
+		],
+		"source_school" : [
+			"Center for Information Technology",
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"2" : {
+		"term" : "active attack",
+		"pronunciation" : "&aelig;k&#183;t&#618;v  &#593;t&#183;t&aelig;k",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"sexy network security attacks."
+		],
+		"source_person" : [
+			"Christopher Neville"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"3" : {
+		"term" : "allaca-",
+		"pronunciation" : "&#596;&#183;l&aelig;&#183;k&#593;",
+		"part_of_speech" : "prefix",
+		"definition" : [
+			"the act of."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"4" : {
+		"term" : "allacacancel",
+		"pronunciation" : "&#593;&#183;l&aelig;&#183;k&#596;&#183;k&#593;n&#183;s&#603;l",
+		"part_of_speech" : "verb",
+		"definition" : [
+			"to cancel out two opposite expressions."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"5" : {
+		"term" : "allacafliperate",
+		"pronunciation" : "&#596;&#183;l&aelig;&#183;k&#593;&#183;fl&#618;&#183;p&#601;r&#183;e&#618;t",
+		"part_of_speech" : "verb",
+		"definition" : [
+			"to flip an equation around in order to show its inverse function."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"6" : {
+		"term" : "allacaslice",
+		"pronunciation" : "&#596;&#183;l&aelig;&#183;k&#593;&#183;sla&#618;s",
+		"part_of_speech" : "verb",
+		"definition" : [
+			"to create a conic section from a cone."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"7" : {
+		"term" : "allacaswaperate",
+		"pronunciation" : "&#593;&#183;l&aelig;&#183;k&#596;&#183;sw&#593;&#183;p&#601;r&#183;e&#618;t",
+		"part_of_speech" : "verb",
+		"definition" : [
+			"to swap elements in a heap, change the places of two things."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"8" : {
+		"term" : "almost like",
+		"pronunciation" : "&#593;l&#183;mo&#650;st  la&#618;k",
+		"part_of_speech" : "expression",
+		"definition" : [
+			"a true, but potentially surprising statement for some."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"9" : {
+		"term" : "animal",
+		"pronunciation" : "&aelig;&#183;n&#618;&#183;m&#593;l",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"a sorting system for trigonometric functions that deals with the types of inputs and outputs."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"10" : {
+		"term" : "ap doctor palen",
+		"pronunciation" : "e&#618;  pi  d&#594;k&#183;t&#596;r  p&#593;l&#183;en",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"refers to dr. palens discrete mathematics class."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"11" : {
+		"term" : "\\#NAME?",
+		"pronunciation" : "&#593;r&#183;e&#618;t",
+		"part_of_speech" : "suffix",
+		"definition" : [
+			"to do."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"12" : {
+		"term" : "axiom",
+		"pronunciation" : "&aelig;ks&#183;i&#183;&#652;m",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"see duh factor."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"13" : {
+		"term" : "bad person",
+		"pronunciation" : "b&aelig;d  p&#618;&#601;r&#183;s&#652;n",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"someone who changes things on their computer when dr. palen walks over."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"14" : {
+		"term" : "better way",
+		"pronunciation" : "b&#603;t&#183;t&#603;r  we&#618;",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"someone else has found a cleaner solution."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"15" : {
+		"term" : "binomial theorem",
+		"pronunciation" : "ba&#618;&#183;no&#650;&#183;mi&#183;&#593;l",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"use the rows of pascal's triangle.",
+			"your other favorite theorem."
+		],
+		"source_person" : [
+			"Joseph Palen",
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology",
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"16" : {
+		"term" : "blah blah blah blah words",
+		"pronunciation" : "bl&#593;  bl&#593;  bl&#596;  bl&#593;  w&#650;&#601;rds",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"useless words in a word problem."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"17" : {
+		"term" : "blank!",
+		"pronunciation" : "bl&aelig;nk",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"a hole on a calculator."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"18" : {
+		"term" : "bloop",
+		"pronunciation" : "blup",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"a bump on the graph."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"19" : {
+		"term" : "blue box",
+		"pronunciation" : "blu  b&#594;ks",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"everything you need to know is inside these.",
+			"something that must only contain truth."
+		],
+		"source_person" : [
+			"Joseph Palen",
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology",
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"20" : {
+		"term" : "blunch",
+		"pronunciation" : "blunt&#643;",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"the second part of lunch."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"21" : {
+		"term" : "boom",
+		"pronunciation" : "bum",
+		"part_of_speech" : "interjection",
+		"definition" : [
+			"the sound you make when you solve an easy problem."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"22" : {
+		"term" : "brain",
+		"pronunciation" : "bre&#618;n",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"the fastest calculator."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"23" : {
+		"term" : "brock",
+		"pronunciation" : "br&#594;k",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"someone who you show a derivative to in order to find the meaning."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"24" : {
+		"term" : "brown e",
+		"pronunciation" : "bra&#650;n  i",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"the prize given in mr. texler's class that is often confused with brownies.."
+		],
+		"source_person" : [
+			"Kareem Texler"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"25" : {
+		"term" : "brown knee",
+		"pronunciation" : "bra&#650;n  ni",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"the result of taping a brown e onto mr. texler's knee."
+		],
+		"source_person" : [
+			"cit students"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"26" : {
+		"term" : "bubblate",
+		"pronunciation" : "b&#652;b&#183;ble&#618;t",
+		"part_of_speech" : "verb",
+		"definition" : [
+			"to bubble in a bubble (answer) sheet."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"27" : {
+		"term" : "bump rule",
+		"pronunciation" : "b&#652;mp  rul",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"count the bumps and add one."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"28" : {
+		"term" : "bust a move",
+		"pronunciation" : "b&#652;st  &#593;  muv",
+		"part_of_speech" : "verb",
+		"definition" : [
+			"to get something done in a much shorter period of time than intended."
+		],
+		"source_person" : [
+			"Julie Skinner"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"29" : {
+		"term" : "c#",
+		"pronunciation" : "si  &#643;&#593;rp",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"c hashtag."
+		],
+		"source_person" : [
+			"other"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"30" : {
+		"term" : "calculator",
+		"pronunciation" : "c&#593;l&#183;cu&#183;le&#618;&#183;t&#603;r",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"slower than a human brain.",
+			"best when clunky and powerful."
+		],
+		"source_person" : [
+			"Joseph Palen",
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology",
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"31" : {
+		"term" : "calculus",
+		"pronunciation" : "c&#593;l&#183;cu&#183;l&#652;s",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"a subject easier than pre-calculus.",
+			"bonkers... and awesome."
+		],
+		"source_person" : [
+			"Joseph Palen",
+			"Christopher Neville"
+		],
+		"source_school" : [
+			"Center for Information Technology",
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"32" : {
+		"term" : "calculus games",
+		"pronunciation" : "c&#593;l&#183;cu&#183;l&#652;s  ge&#618;ms",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"like the olympics but without the winter ones."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"33" : {
+		"term" : "cannon",
+		"pronunciation" : "ce&#618;n&#183;n&#594;n",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"drawn by writing the name out."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"34" : {
+		"term" : "capstonian",
+		"pronunciation" : "c&aelig;p&#183;sto&#650;n&#183;i&#183;e&#618;n",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"a student which takes capstone."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"35" : {
+		"term" : "careful man",
+		"pronunciation" : "c&aelig;r&#183;f&#652;l  me&#618;n",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"someone who draws their triangles in the right quadrants."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"36" : {
+		"term" : "change-up",
+		"pronunciation" : "t&#643;e&#618;nd&#658;&#183;&#652;p",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"a really easy problem on a hard math test."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"37" : {
+		"term" : "charlie",
+		"pronunciation" : "t&#643;&#593;r&#183;li",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"c(1 - (x/r1))(1 - (x/r2))."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"38" : {
+		"term" : "checklist",
+		"pronunciation" : "t&#643;&#603;k&#183;l&#618;st",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"ensures quality."
+		],
+		"source_person" : [
+			"Lynne Norris"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"39" : {
+		"term" : "choose",
+		"pronunciation" : "t&#643;us",
+		"part_of_speech" : "verb",
+		"definition" : [
+			"to cross an ayssmptote."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"40" : {
+		"term" : "chilly-willies",
+		"pronunciation" : "t&#643;&#618;&#183;li&#183;w&#618;&#183;lis",
+		"part_of_speech" : "adjective",
+		"definition" : [
+			"when it is very cold."
+		],
+		"source_person" : [
+			"Julie Skinner"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"41" : {
+		"term" : "clean up",
+		"pronunciation" : "klin  &#652;p",
+		"part_of_speech" : "verb",
+		"definition" : [
+			"to fix an error."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"42" : {
+		"term" : "communication",
+		"pronunciation" : "k&#652;&#183;mu&#183;n&#618;&#183;ke&#618;&#183;t&#643;&#652;n",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"90\\\\% of the project manager’s job."
+		],
+		"source_person" : [
+			"Lynne Norris"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"43" : {
+		"term" : "completing the square",
+		"pronunciation" : "k&#652;m&#183;pli&#183;t&#618;&#331;  &theta;i  skw&aelig;r",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"how do you still not know how to do this?."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"44" : {
+		"term" : "conner",
+		"pronunciation" : "k&#594;n&#183;n&#594;r",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"easily convinced person."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"45" : {
+		"term" : "context",
+		"pronunciation" : "k&#594;n&#183;t&#603;kst",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"something that must be added to documentation.."
+		],
+		"source_person" : [
+			"Lynne Norris"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"46" : {
+		"term" : "cool fruits",
+		"pronunciation" : "kul  fruts",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"people who understand cartesian and polar coordinates."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"47" : {
+		"term" : "crunch crunch",
+		"pronunciation" : "kr&#652;nt&#643;  kr&#652;nt&#643;",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"the sound of eating an apple."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"48" : {
+		"term" : "crunch crunch",
+		"pronunciation" : "kr&#652;nt&#643;  kr&#652;nt&#643;",
+		"part_of_speech" : "verb",
+		"definition" : [
+			"to do arithmetic."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"49" : {
+		"term" : "cute magic numbers",
+		"pronunciation" : "kjut  m&aelig;&#183;d&#658;&#618;k  n&#652;m&#183;b&#596;rs",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"numbers you learn in trig."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"50" : {
+		"term" : "d/dx=",
+		"pronunciation" : "di  o&#650;&#183;v&#603;r  di  &#603;ks  i&#183;kw&#593;ls",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"see lim=."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"51" : {
+		"term" : "dark green balloon problem",
+		"pronunciation" : "d&#596;rk  grin  b&#593;&#183;lun  pr&#594;b&#183;l&#603;m",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"a problem no one can solve, except for the only people in the drhs programming competition who can't program."
+		],
+		"source_person" : [
+			"other"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"52" : {
+		"term" : "databases",
+		"pronunciation" : "d&aelig;&#183;t&aelig;&#183;be&#618;&#183;s&#603;s",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"they run the world."
+		],
+		"source_person" : [
+			"Lynne Norris"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"53" : {
+		"term" : "degrees ",
+		"pronunciation" : "d&#603;&#183;gris",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"you should never use these.",
+			"the unnatrual unit."
+		],
+		"source_person" : [
+			"Joseph Palen",
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology",
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"54" : {
+		"term" : "demorganate",
+		"pronunciation" : "di&#183;m&#596;&#601;r&#183;ge&#618;&#183;ne&#618;t",
+		"part_of_speech" : "verb",
+		"definition" : [
+			"to use de morgan's law to simplify something, duh!."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"55" : {
+		"term" : "derive",
+		"pronunciation" : "d&#603;r&#183;iv",
+		"part_of_speech" : "verb",
+		"definition" : [
+			"what one does when he/she does not know a formula."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"56" : {
+		"term" : "dimensions",
+		"pronunciation" : "d&#618;&#183;m&#603;n&#183;&#643;&#652;ns",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"something that shouldn't be limited to what you can visualize."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"57" : {
+		"term" : "discrete",
+		"pronunciation" : "d&#618;&#183;skrit",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"things you pick up along the way.",
+			"math you could teach 3rd graders."
+		],
+		"source_person" : [
+			"Joseph Palen",
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology",
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"58" : {
+		"term" : "divine inspiration",
+		"pronunciation" : "d&#618;&#183;va&#618;n  &#618;n&#183;sp&#618;r&#183;e&#618;&#183;t&#643;&#652;n",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"the reason for how you got the correct answer without showing any work."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"59" : {
+		"term" : "double",
+		"pronunciation" : "d&#652;&#183;b&#652;l",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"a 64 bit number, first 32 bits for the whole number and final 32 bits for the decimal."
+		],
+		"source_person" : [
+			"Christopher Neville"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"60" : {
+		"term" : "drama",
+		"pronunciation" : "dr&#596;&#183;m&#593;",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"the process of writing out the solution of a limit you already know."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"61" : {
+		"term" : "draw a triangle",
+		"pronunciation" : "dr&#596;  &#593;  tri&#183;&#603;&#331;&#183;g&#652;l",
+		"part_of_speech" : "verb",
+		"definition" : [
+			"to solve a problem."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"62" : {
+		"term" : "duh factor",
+		"pronunciation" : "d&#652;  f&aelig;k&#183;&#596;r",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"the factor that allows you to assume an axiom is true."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"63" : {
+		"term" : "en-",
+		"pronunciation" : "&#603;n",
+		"part_of_speech" : "prefix",
+		"definition" : [
+			"to take action."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"64" : {
+		"term" : "enfocuserate",
+		"pronunciation" : "&#603;n&#183;fo&#650;&#183;c&#652;s&#183;&#601;r&#183;e&#618;t",
+		"part_of_speech" : "verb",
+		"definition" : [
+			"to focus a projector."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"65" : {
+		"term" : "engooglate",
+		"pronunciation" : "&#603;n&#183;gu&#183;g&#652;l&#183;e&#618;t",
+		"part_of_speech" : "verb",
+		"definition" : [
+			"to search for a thing on google."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"66" : {
+		"term" : "ensubstitute",
+		"pronunciation" : "&#603;n&#183;s&#652;b&#183;st&#618;&#183;tut",
+		"part_of_speech" : "verb",
+		"definition" : [
+			"to substitute terms in an expression for other, typically simpler, terms."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"67" : {
+		"term" : "enswapperate",
+		"pronunciation" : "&#603;n&#183;sw&aelig;&#183;p&#601;r&#183;e&#618;t",
+		"part_of_speech" : "verb",
+		"definition" : [
+			"to flip one's x's and y's."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"68" : {
+		"term" : "entesterate",
+		"pronunciation" : "&#603;n&#183;t&#603;s&#183;t&#601;r&#183;e&#618;t",
+		"part_of_speech" : "verb",
+		"definition" : [
+			"to take a test."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"69" : {
+		"term" : "equals",
+		"pronunciation" : "i&#183;kw&#593;ls",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"means equals if written."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"70" : {
+		"term" : "ethics",
+		"pronunciation" : "&#603;&#183;&theta;&#618;ks",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"is it illegal? is it against the rules? who does it affect and how?."
+		],
+		"source_person" : [
+			"Lynne Norris"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"71" : {
+		"term" : "excessively cute",
+		"pronunciation" : "&#603;ks&#183;s&#603;s&#183;s&#618;v  &#183;li",
+		"part_of_speech" : "adjective",
+		"definition" : [
+			"reaching an answer using many tricks."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"72" : {
+		"term" : "explosion",
+		"pronunciation" : "&#603;ks&#183;plo&#650;&#183;&#643;un",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"the definite outcome of dividing by zero (only chuck norris can divide by zero)."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"73" : {
+		"term" : "factorial",
+		"pronunciation" : "f&aelig;k&#183;t&#596;r&#183;i&#183;&#593;l",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"killer of exponents."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"74" : {
+		"term" : "faith",
+		"pronunciation" : "fe&#618;&theta;",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"belief that a solution works."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"75" : {
+		"term" : "faith sort",
+		"pronunciation" : "fe&#618;&theta;  s&#596;rt",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"runs in o(1) time, fastest sorting algorithm, just have faith it is sorted."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"76" : {
+		"term" : "fine, you don't know anything",
+		"pronunciation" : "fa&#618;n  ju  do&#650;nt  no&#650;  &#601;n&#183;ni&#183;&theta;&#618;&#331;",
+		"part_of_speech" : "phrase",
+		"definition" : [
+			"i'm about to show you that you actually do."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"77" : {
+		"term" : "forehead",
+		"pronunciation" : "f&#596;&#601;r&#183;h&#603;d",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"in reference to william benton leimberger."
+		],
+		"source_person" : [
+			"other"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"78" : {
+		"term" : "four",
+		"pronunciation" : "f&#596;&#601;r",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"probably smaller than sixteen."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"79" : {
+		"term" : "functor",
+		"pronunciation" : "f&#652;nk&#183;t&#594;r",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"function of functions, see recursion."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"80" : {
+		"term" : "gateway",
+		"pronunciation" : "ge&#618;t&#183;we&#618;",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"something you must pass through to enter the next area."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"81" : {
+		"term" : "gateway tests",
+		"pronunciation" : "ge&#618;t&#183;we&#618;  t&#603;sts",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"challenging quizzes that you must retake until you score a perfect or near perfect score."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"82" : {
+		"term" : "geometry",
+		"pronunciation" : "d&#658;i&#183;&#593;&#183;m&#603;&#183;tri",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"a class everyone takes and forgets everything they learned."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"83" : {
+		"term" : "get clever",
+		"pronunciation" : "g&#603;t  kl&#603;&#183;v&#603;r",
+		"part_of_speech" : "verb",
+		"definition" : [
+			"to use the pythagorean theorem."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"84" : {
+		"term" : "gimmies",
+		"pronunciation" : "g&#618;&#183;mis",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"easy change-ups."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"85" : {
+		"term" : "giraffe",
+		"pronunciation" : "d&#658;&#618;r&#183;&aelig;f",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"animals that if i was, then i could swallow molten metal."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"86" : {
+		"term" : "go bananas",
+		"pronunciation" : "go&#650;  b&#596;&#183;n&#601;n&#183;n&#593;s",
+		"part_of_speech" : "verb",
+		"definition" : [
+			"see no.",
+			"when a schedule gets off schedule."
+		],
+		"source_person" : [
+			"Joseph Palen",
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology",
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"87" : {
+		"term" : "good people",
+		"pronunciation" : "gud  pi&#183;p&#652;l",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"those who don't use calculators on a poker quiz."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"88" : {
+		"term" : "good person",
+		"pronunciation" : "gud  p&#650;&#601;r&#183;s&#652;n",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"someone who does their homework in many colors."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"89" : {
+		"term" : "grades",
+		"pronunciation" : "gre&#618;ds",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"something that should probably be updated once every 9 weeks."
+		],
+		"source_person" : [
+			"Christopher Neville"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"90" : {
+		"term" : "gravity",
+		"pronunciation" : "gr&#593;&#183;v&#618;&#183;ti",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"still works, can confirm."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"91" : {
+		"term" : "gray box",
+		"pronunciation" : "gre&#618;  b&#594;ks",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"not a blue box, but it still has knowledge."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"92" : {
+		"term" : "happy happy...",
+		"pronunciation" : "h&#596;&#183;pi  h&#593;&#183;pi",
+		"part_of_speech" : "expression",
+		"definition" : [
+			"is it though?."
+		],
+		"source_person" : [
+			"Lynne Norris"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"93" : {
+		"term" : "has",
+		"pronunciation" : "h&aelig;s",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"a word that adds context."
+		],
+		"source_person" : [
+			"Lynne Norris"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"94" : {
+		"term" : "hello",
+		"pronunciation" : "h&#603;&#183;lo&#650;",
+		"part_of_speech" : "world",
+		"definition" : [
+			"?."
+		],
+		"source_person" : [
+			"Christopher Neville"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"95" : {
+		"term" : "henlo",
+		"pronunciation" : "h&#603;n&#183;lo&#650;",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"equivalent to hello."
+		],
+		"source_person" : [
+			"cit students"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"96" : {
+		"term" : "high schooler",
+		"pronunciation" : "ha&#618;&#183;sku&#183;l&#596;r",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"someone who does not rub their nose on the wall."
+		],
+		"source_person" : [
+			"Christopher Neville"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"97" : {
+		"term" : "hockey puck",
+		"pronunciation" : "ho&#183;ki  p&#652;k",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"the object of a game in which a hockey puck is used as replacements for all other normal sports objects."
+		],
+		"source_person" : [
+			"Christopher Neville"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"98" : {
+		"term" : "human",
+		"pronunciation" : "hu&#183;m&#601;n",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"an inferior being.",
+			"a being that tends to learn something then forget it."
+		],
+		"source_person" : [
+			"Joseph Palen",
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology",
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"99" : {
+		"term" : "hyperbolic geometry",
+		"pronunciation" : "hi&#183;p&#650;&#601;r&#183;b&#594;&#183;l&#618;k",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"easier than euclidian geometry."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"100" : {
+		"term" : "induction",
+		"pronunciation" : "&#618;n&#183;d&#652;k&#183;&#643;&#652;n",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"show it works somewhere, show it works for any n, show it works for n+1."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"101" : {
+		"term" : "infinite loop",
+		"pronunciation" : "&#618;n&#183;f&#618;n&#183;&#618;t  lup",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"i don't always forget a base case, but when i don't always forget a base case..."
+		],
+		"source_person" : [
+			"Christopher Neville"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"102" : {
+		"term" : "interstellaring",
+		"pronunciation" : "&#618;n&#183;t&#650;&#601;r&#183;st&#603;l&#183;l&#593;r&#183;&#618;&#331;",
+		"part_of_speech" : "verb",
+		"definition" : [
+			"to compete in a mathematics competition."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"103" : {
+		"term" : "it",
+		"pronunciation" : "&#618;t",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"no!."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"104" : {
+		"term" : "jack",
+		"pronunciation" : "d&#658;&aelig;k",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"easily convinced person."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"105" : {
+		"term" : "jesus",
+		"pronunciation" : "d&#658;i&#183;s&#652;s",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"one who you must thank for not having to teach web design."
+		],
+		"source_person" : [
+			"Christopher Neville"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"106" : {
+		"term" : "jiu jitsu",
+		"pronunciation" : "d&#658;u  j&#618;t&#183;su",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"the hub of mrs. skinner's social life."
+		],
+		"source_person" : [
+			"Julie Skinner"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"107" : {
+		"term" : "jumping jacks",
+		"pronunciation" : "d&#658;&#652;m&#183;p&#618;&#331;  d&#658;&aelig;ks",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"something that one should do when falling asleep."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"108" : {
+		"term" : "just saying…",
+		"pronunciation" : "d&#658;&#652;st  se&#618;&#183;&#618;&#331;",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"this will be on the test."
+		],
+		"source_person" : [
+			"Lynne Norris"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"109" : {
+		"term" : "k-vertical",
+		"pronunciation" : "k&#596;&#183;v&#601;r&#183;t&#618;&#183;k&#593;l",
+		"part_of_speech" : "adjective",
+		"definition" : [
+			"describes the shift of a sinusoidal graph on the y-axis."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"110" : {
+		"term" : "kill that",
+		"pronunciation" : "k&#618;l  &theta;&aelig;t",
+		"part_of_speech" : "verb",
+		"definition" : [
+			"to simplify an equation or expression."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"111" : {
+		"term" : "know",
+		"pronunciation" : "no&#650;",
+		"part_of_speech" : "verb",
+		"definition" : [
+			"not to be confused with \"know\"."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"112" : {
+		"term" : "\"know\"",
+		"pronunciation" : "no&#650;",
+		"part_of_speech" : "verb",
+		"definition" : [
+			"not to be confused with know."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"113" : {
+		"term" : "l'hôpitate",
+		"pronunciation" : "lo&#650;&#183;h&#594;p&#183;&#618;&#183;te&#618;t",
+		"part_of_speech" : "verb",
+		"definition" : [
+			"to use l'hôpital's rule to solve a limit."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"114" : {
+		"term" : "lie",
+		"pronunciation" : "la&#618;",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"something you hope your teachers did not do, even though you cannot prove what they gave you."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"115" : {
+		"term" : "lim=",
+		"pronunciation" : "l&#618;m  i&#183;kw&#593;ls",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"no."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"116" : {
+		"term" : "limits",
+		"pronunciation" : "l&#618;&#183;m&#618;ts",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"i'm here and i'm going nananananana."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"117" : {
+		"term" : "limits",
+		"pronunciation" : "l&#618;&#183;m&#618;ts",
+		"part_of_speech" : "?",
+		"definition" : [
+			"$\\forall \\epsilon >0\\ \\exists \\ \\delta >0 \\ni |x-a|<|f(x)-L|<\\epsilon$."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"118" : {
+		"term" : "log(x)",
+		"pronunciation" : "l&#594;g  &#603;ks",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"use ln(x) instead, only used by engineers, not mathematicians."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"119" : {
+		"term" : "logarithms",
+		"pronunciation" : "l&#594;&#183;g&#593;r&#183;&#618;&theta;&#183;&#603;ms",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"something everyone who knows addition should know how to do."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"120" : {
+		"term" : "lose it",
+		"pronunciation" : "lus  &#618;t",
+		"part_of_speech" : "verb",
+		"definition" : [
+			"something someone does when someone else forgets the pythagorean theorem."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"121" : {
+		"term" : "magic box",
+		"pronunciation" : "m&aelig;&#183;g&#618;k  b&#594;ks",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"also known as a computer, black in color. very useful when one does not know an answer."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"122" : {
+		"term" : "man-hours",
+		"pronunciation" : "m&#601;n&#183;ha&#650;&#601;rs",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"the amount of time that a group is considered to have when working on an assignment."
+		],
+		"source_person" : [
+			"Lynne Norris"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"123" : {
+		"term" : "math",
+		"pronunciation" : "m&aelig;&theta;",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"says things more carefully.",
+			"the only reason to come to school."
+		],
+		"source_person" : [
+			"Joseph Palen",
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology",
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"124" : {
+		"term" : "math.pow()",
+		"pronunciation" : "m&aelig;&theta;&#183;d&#594;t&#183;\\textbf{p&#594;w}",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"pronounced \"math dot pow!!!\"."
+		],
+		"source_person" : [
+			"Christopher Neville"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"125" : {
+		"term" : "mathematician",
+		"pronunciation" : "m&aelig;&#183;&theta;&#603;&#183;m&#593;&#183;t&#618;&#183;&#643;&#618;n",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"a superior being."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"126" : {
+		"term" : "mathematics",
+		"pronunciation" : "m&aelig;&#183;&theta;&#603;&#183;m&#593;&#183;t&#618;ks",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"something that results in the same answer every time, but only when it works; something that takes too long to teach all of."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"127" : {
+		"term" : "mountain dew",
+		"pronunciation" : "ma&#650;n&#183;t&#601;n  du",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"dr. palens favorite drink."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"128" : {
+		"term" : "multiple choice",
+		"pronunciation" : "m&#652;l&#183;t&#618;&#183;p&#652;l  t&#643;&#596;&#618;s",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"a type of question where only the answer choices are necessary; you do not need to read the question itself."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"129" : {
+		"term" : "nam",
+		"pronunciation" : "n&#596;m",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"what mr. neville wrote about in grade school writing assignments.."
+		],
+		"source_person" : [
+			"Christopher Neville"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"130" : {
+		"term" : "neville points",
+		"pronunciation" : "n&#603;&#183;v&#618;l  p&#596;&#618;nts",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"a useless crypto-currency with a market that collapses nearly contsantly."
+		],
+		"source_person" : [
+			"Christopher Neville"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"131" : {
+		"term" : "no",
+		"pronunciation" : "no&#650;",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"taking log of a non-positive number or any other outcome that is not possible.",
+			"dividing by 0."
+		],
+		"source_person" : [
+			"Joseph Palen",
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology",
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"132" : {
+		"term" : "northern virginia",
+		"pronunciation" : "n&#594;r&#183;&theta;&#601;rn  v&#601;r&#183;d&#658;&#618;&#183;ni&#183;&#593;",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"literally worse than north korea."
+		],
+		"source_person" : [
+			"Christopher Neville"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"133" : {
+		"term" : "notes",
+		"pronunciation" : "no&#650;ts",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"not going to happen."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"134" : {
+		"term" : "nunce",
+		"pronunciation" : "n&#652;ns",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"less than once."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"135" : {
+		"term" : "objeriented",
+		"pronunciation" : "&#594;b&#183;j&#603;r&#183;i&#183;&#603;n&#183;t&#603;d",
+		"part_of_speech" : "adjective",
+		"definition" : [
+			"object oriented."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"136" : {
+		"term" : "oh moment",
+		"pronunciation" : "o&#650;  mo&#650;&#183;m&#601;nt",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"the moment you realize how to do a question on a test."
+		],
+		"source_person" : [
+			"cit students"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"137" : {
+		"term" : "one",
+		"pronunciation" : "w&#652;n",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"might be greater than 0."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"138" : {
+		"term" : "oops",
+		"pronunciation" : "ups",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"why didn't you tell me i made a mistake?."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"139" : {
+		"term" : "operation",
+		"pronunciation" : "&#594;&#183;p&#603;r&#183;e&#618;&#183;t&#643;&#652;n",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"something only mr. neville cares about."
+		],
+		"source_person" : [
+			"Christopher Neville"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"140" : {
+		"term" : "opportunity",
+		"pronunciation" : "&#594;p&#183;&#594;r&#183;tu&#183;n&#618;&#183;ti",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"chance to fix one of palen's errors."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"141" : {
+		"term" : "palenomial",
+		"pronunciation" : "p&#596;&#183;l&#603;&#183;no&#650;&#183;mi&#183;&#593;l",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"palen's power polynomial, polynomial to the power of palen."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"142" : {
+		"term" : "panic",
+		"pronunciation" : "p&#601;&#183;n&#618;k",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"the indicator that you should go eat some food."
+		],
+		"source_person" : [
+			"Christopher Neville"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"143" : {
+		"term" : "pascal's triangle",
+		"pronunciation" : "p&aelig;&#183;sk&#593;ls  tri&#183;e&#618;&#331;&#183;g&#652;l",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"used to find the answer to any mathematics problem imaginable."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"144" : {
+		"term" : "\\#NAME?",
+		"pronunciation" : "p&#601;r&#183;e&#618;t",
+		"part_of_speech" : "suffix",
+		"definition" : [
+			"to do."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"145" : {
+		"term" : "phenomenally pleasurable pink puffy ponies",
+		"pronunciation" : "f&#603;&#183;n&#594;&#183;m&#603;&#183;n&#594;l&#183;li  pl&#603;&#183;s2r&#183;&#593;&#183;b&#652;l  p&#618;nk  p&#652;f&#183;fi  po&#650;&#183;nis",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"the infamous programming team that solved the dark green balloon problem even though they never wrote a program."
+		],
+		"source_person" : [
+			"other"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"146" : {
+		"term" : "$\\bm{\\pi /2,\\ \\pi /3,\\ \\pi /6}$ triangle",
+		"pronunciation" : "pi  o&#650;&#183;v&#596;r  to&#650;  pi  o&#650;&#183;v&#596;r  &theta;ri  pi  o&#650;&#183;v&#596;r  s&#618;ks  tri&#183;&#601;n&#183;g&#652;l",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"30$^{\\circ}$, 60$^{\\circ}$, 90$^{\\circ}$  triangle."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"147" : {
+		"term" : "pile o' integrals",
+		"pronunciation" : "pa&#618;l  o&#650;  &#618;n&#183;t&#603;&#183;gr&#593;ls",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"the best type of integrals."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"148" : {
+		"term" : "pmi",
+		"pronunciation" : "pi  &#603;m  i",
+		"part_of_speech" : "acronym",
+		"definition" : [
+			"project management institute.",
+			"principle of mathematics induction."
+		],
+		"source_person" : [
+			"Lynne Norris",
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology",
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"149" : {
+		"term" : "poorly designed",
+		"pronunciation" : "p&#650;&#601;r&#183;li  di&#183;za&#618;nd",
+		"part_of_speech" : "adjective",
+		"definition" : [
+			"neville doesn't like it."
+		],
+		"source_person" : [
+			"Christopher Neville"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"150" : {
+		"term" : "power to a power",
+		"pronunciation" : "pa&#650;&#601;r  tu  &#593;  pa&#650;&#601;r",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"the rootinest tootinest law of exponents in the wild west."
+		],
+		"source_person" : [
+			"Kareem Texler"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"151" : {
+		"term" : "psatenimsquat",
+		"pronunciation" : "p&#603;&#183;s&aelig;t&#183;&#603;&#183;n&#618;m&#183;skw&#596;t",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"in reference to the psat."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"152" : {
+		"term" : "puppies",
+		"pronunciation" : "p&#652;p&#183;pis",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"the default unit in algebra ii."
+		],
+		"source_person" : [
+			"Kareem Texler"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"153" : {
+		"term" : "purple answer",
+		"pronunciation" : "p&#652;r&#183;p&#652;l  &#601;n&#183;s&#650;&#601;r",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"ln|secx + tanx| + c."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"154" : {
+		"term" : "pythagorate",
+		"pronunciation" : "pa&#618;&#183;&theta;&aelig;&#183;g&#594;r&#183;e&#618;t",
+		"part_of_speech" : "verb",
+		"definition" : [
+			"use you favorite theorem.",
+			"to find the third side length of a triangle."
+		],
+		"source_person" : [
+			"Joseph Palen",
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology",
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"155" : {
+		"term" : "pythagoration",
+		"pronunciation" : "pa&#618;&#183;&theta;&aelig;&#183;g&#594;r&#183;e&#618;&#183;t&#643;&#652;n",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"the result of pythagorating."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"156" : {
+		"term" : "qian",
+		"pronunciation" : "ch&#603;n",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"one, if able to reallocate a third of the brain capacity currently dedicated to useless information to something remotely useful, would be a strong and smart person."
+		],
+		"source_person" : [
+			"Christopher Neville"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"157" : {
+		"term" : "quod erat demonstrandum",
+		"pronunciation" : "kw&#594;d  &#603;r&#183;r&#593;t  d&#603;&#183;m&#594;n&#183;str&aelig;n&#183;d&#652;m",
+		"part_of_speech" : "expression",
+		"definition" : [
+			"ta-da!."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"158" : {
+		"term" : "recursion",
+		"pronunciation" : "ri&#183;c&#652;r&#183;&#643;&#652;n",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"see \"recursion\"."
+		],
+		"source_person" : [
+			"Christopher Neville"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"159" : {
+		"term" : "relief",
+		"pronunciation" : "ri&#183;lif",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"the wonderful feeling you get when you finally derive a formula you were given without explanation."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"160" : {
+		"term" : "rhymes with …",
+		"pronunciation" : "ra&#618;ms  w&#618;&theta;",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"palen doesn’t want to have to keep explaining it to you."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"161" : {
+		"term" : "right?",
+		"pronunciation" : "ra&#618;t",
+		"part_of_speech" : "expression",
+		"definition" : [
+			"mrs. norris' rhetorical question; answer \"yes\" no matter what."
+		],
+		"source_person" : [
+			"Lynne Norris"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"162" : {
+		"term" : "rookie mistake",
+		"pronunciation" : "ru&#183;ki  m&#618;&#183;ste&#618;k",
+		"part_of_speech" : "expression",
+		"definition" : [
+			"2 * 6 = c."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"163" : {
+		"term" : "scrum",
+		"pronunciation" : "skr&#652;m",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"focus \\\\#deliver."
+		],
+		"source_person" : [
+			"Lynne Norris"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"164" : {
+		"term" : "second wednesday",
+		"pronunciation" : "s&#603;&#183;k&#652;nd  w&#601;nds&#183;de&#618;",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"friday."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"165" : {
+		"term" : "self-blending blenders",
+		"pronunciation" : "s&#603;lf&#183;bl&#603;nd&#183;&#618;&#331;  bl&#603;nd&#183;&#596;rs",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"a blender that uses machine learning algorithms and neural networks to understand when to blend the input and executes that action."
+		],
+		"source_person" : [
+			"Christopher Neville"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"166" : {
+		"term" : "seven",
+		"pronunciation" : "s&#603;&#183;v&#601;n",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"probably to the right of one on a number line."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"167" : {
+		"term" : "sidewaysish",
+		"pronunciation" : "se&#618;d&#183;we&#618;s&#183;&#618;&#643;",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"a line that is neither vertical nor horizontal."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"168" : {
+		"term" : "silly people",
+		"pronunciation" : "s&#618;l&#183;li  pi&#183;p&#652;l",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"people who are unnecessarily scared by formulas."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"169" : {
+		"term" : "silly question",
+		"pronunciation" : "s&#618;l&#183;li  kw&#603;s&#183;t&#643;&#652;n",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"a question that asks for something that doesn't exist."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"170" : {
+		"term" : "sin-1(5/8) = a",
+		"pronunciation" : "&#596;rk&#183;se&#618;n  &#652;f  fe&#618;v  e&#618;&theta;s  i&#183;kw&#593;ls  e&#618;",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"sin(a) = 5/8."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"171" : {
+		"term" : "slaughter",
+		"pronunciation" : "sl&#594;&#183;t&#594;r",
+		"part_of_speech" : "verb",
+		"definition" : [
+			"to take points off with reckless abandon."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"172" : {
+		"term" : "soccer",
+		"pronunciation" : "s&#594;k&#183;k&#594;r",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"not a sport."
+		],
+		"source_person" : [
+			"Christopher Neville"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"173" : {
+		"term" : "soccer 2.0",
+		"pronunciation" : "s&#594;k&#183;k&#594;r  tu  p&#594;&#618;nt  o&#650;",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"a game with only one team and a super big goal."
+		],
+		"source_person" : [
+			"Christopher Neville"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"174" : {
+		"term" : "social dilemmas",
+		"pronunciation" : "so&#650;&#183;&#643;&#652;l  di&#183;l&#603;m&#183;m&#593;s",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"the worst assignment ever."
+		],
+		"source_person" : [
+			"Lynne Norris"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"175" : {
+		"term" : "sol",
+		"pronunciation" : "so&#650;l",
+		"part_of_speech" : "verb",
+		"definition" : [
+			"to take an sol."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"176" : {
+		"term" : "some idiot",
+		"pronunciation" : "s&#652;m  &#618;&#183;di&#183;&#594;t",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"a math teacher that uses degrees."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"177" : {
+		"term" : "soon",
+		"pronunciation" : "sun",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"the time when the massive game of civ that never happens will happen."
+		],
+		"source_person" : [
+			"cit students"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"178" : {
+		"term" : "soph-people",
+		"pronunciation" : "s&#594;f&#183;pi&#183;p&#652;l",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"plural of sophomore."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"179" : {
+		"term" : "sorting problem",
+		"pronunciation" : "s&#650;&#601;r&#183;t&#618;&#331;  pr&#593;&#183;bl&#603;m",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"sort a list of numbers.",
+			"neville's method for wasting time.",
+			"to be repeated until class is over."
+		],
+		"source_person" : [
+			"Christopher Neville",
+			"Christopher Neville",
+			"Christopher Neville"
+		],
+		"source_school" : [
+			"Center for Information Technology",
+			"Center for Information Technology",
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"180" : {
+		"term" : "sparknotes",
+		"pronunciation" : "sp&#593;rk&#183;no&#650;ts",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"\\\\#skinnerapproved, the proper way to read books."
+		],
+		"source_person" : [
+			"Julie Skinner"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"181" : {
+		"term" : "stack overflow",
+		"pronunciation" : "st&aelig;k  o&#650;&#183;v&#596;r&#183;flo&#650;",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"students have sweated a lot to get this site unblocked just so that the incoming cit students could have a better life; it is also mr. neville's favorite website."
+		],
+		"source_person" : [
+			"Christopher Neville"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"182" : {
+		"term" : "stakeholders",
+		"pronunciation" : "ste&#618;k&#183;ho&#650;l&#183;d&#596;rs",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"someone who affects or is affected by the project."
+		],
+		"source_person" : [
+			"Lynne Norris"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"183" : {
+		"term" : "staple zone",
+		"pronunciation" : "ste&#618;&#183;p&#652;l  zo&#650;n",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"the area on scratch paper reserved for staples to make sure that work is not lost."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"184" : {
+		"term" : "stupid things",
+		"pronunciation" : "stu&#183;p&#618;d  &theta;&#618;&#331;s",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"stupid by definition."
+		],
+		"source_person" : [
+			"Christopher Neville"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"185" : {
+		"term" : "subtractorate",
+		"pronunciation" : "s&#652;b&#183;tr&aelig;k&#183;t&#596;r&#183;e&#618;t",
+		"part_of_speech" : "verb",
+		"definition" : [
+			"to subtract."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"186" : {
+		"term" : "swipper-switcher-swapper",
+		"pronunciation" : "sw&#618;&#183;p&#596;r&#183;sw&#618;&#183;t&#643;&#596;r&#183;sw&#593;&#183;p&#596;r",
+		"part_of_speech" : "verb",
+		"definition" : [
+			"to switch the numbers along the diagonal in a matrix when finding the inverse matrix."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"187" : {
+		"term" : "synergy and cohesion",
+		"pronunciation" : "s&#618;&#183;n&#594;r&#183;gi  &#601;nd  co&#650;&#183;hi&#183;&#643;&#652;n",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"without which, a team would be not."
+		],
+		"source_person" : [
+			"Lynne Norris"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"188" : {
+		"term" : "ta-ta-ta-ta-ta...",
+		"pronunciation" : "t&#593;&#183;t&#593;&#183;t&#593;&#183;t&#596;&#183;t&#593;&#183;",
+		"part_of_speech" : "phrase",
+		"definition" : [
+			"the sound you have to make when drawing dotted lines."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"189" : {
+		"term" : "tangent",
+		"pronunciation" : "t&#601;n&#183;g&#603;nt",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"a tangent about tangent."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"190" : {
+		"term" : "teacher's school",
+		"pronunciation" : "ti&#183;t&#643;&#596;rs  skul",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"a magical place where they create the steps in between."
+		],
+		"source_person" : [
+			"Christopher Neville"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"191" : {
+		"term" : "the big five",
+		"pronunciation" : "&theta;i  b&#618;g  fiv",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"seven."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"192" : {
+		"term" : "the fantastic 100",
+		"pronunciation" : "&theta;i  f&#601;n&#183;t&aelig;s&#183;t&#618;k  f&#650;&#601;r",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"a programming team that is following the footsteps of the council.",
+			"a programming team in which the original 100 people have never been together since their first competition.",
+			"a programming team that gets all of their problems in the first hour, and then takes a vacation for the remaining 2-3 hours."
+		],
+		"source_person" : [
+			"other",
+			"other",
+			"other"
+		],
+		"source_school" : [
+			"Center for Information Technology",
+			"Center for Information Technology",
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"193" : {
+		"term" : "the internet",
+		"pronunciation" : "&theta;i  &#618;n&#183;t&#596;r&#183;n&#603;t",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"the big network."
+		],
+		"source_person" : [
+			"Christopher Neville"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"194" : {
+		"term" : "the usual suspects",
+		"pronunciation" : "&theta;i  ju&#183;&#658;u&#183;&#593;l  s&#652;s&#183;p&#603;kts",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"those who are expected to get the right answer."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"195" : {
+		"term" : "this + that = 180",
+		"pronunciation" : "&theta;&#618;s  pl&#652;s  &theta;&aelig;t  i&#183;kw&#593;ls  w&#652;n&#183;e&#618;&#183;ti",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"all anyone did in geometry."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"196" : {
+		"term" : "three",
+		"pronunciation" : "&theta;ri",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"a number equal to 5 - 6."
+		],
+		"source_person" : [
+			"Christopher Neville"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"197" : {
+		"term" : "three letter acroynm (tla)",
+		"pronunciation" : "&theta;ri  l&#603;t&#183;t&#596;r  &#593;&#183;kro&#650;&#183;n&#618;m",
+		"part_of_speech" : "adjective",
+		"definition" : [
+			"important."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"198" : {
+		"term" : "to juggle",
+		"pronunciation" : "to&#650;  d&#658;&#652;&#183;g&#652;l",
+		"part_of_speech" : "verb",
+		"definition" : [
+			"something everyone learns to do in college."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"199" : {
+		"term" : "tomorrow",
+		"pronunciation" : "to&#650;&#183;m&#593;r&#183;o&#650;",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"the next day of class."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"200" : {
+		"term" : "trig-in-a-day",
+		"pronunciation" : "tr&#618;g&#183;&#618;n&#183;&#593;&#183;de&#618;",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"you don't need to spend a semester on this; can be taught in a 45 min block."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"201" : {
+		"term" : "unit circle",
+		"pronunciation" : "jo&#650;&#183;n&#618;t  s&#650;r&#183;k&#652;l",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"the root of all math."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"202" : {
+		"term" : "verify",
+		"pronunciation" : "v&#603;r&#183;&#618;&#183;fi",
+		"part_of_speech" : "verb",
+		"definition" : [
+			"to start at the beginning and end at the end."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"203" : {
+		"term" : "victory lap",
+		"pronunciation" : "v&#618;k&#183;t&#650;&#601;r&#183;i",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"to take easy classes senior year of high school."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"204" : {
+		"term" : "visual depiction",
+		"pronunciation" : "v&#618;&#183;&#658;u&#183;&#593;l  di&#183;p&#618;k&#183;t&#643;&#652;n",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"not a powerpoint."
+		],
+		"source_person" : [
+			"Lynne Norris"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"205" : {
+		"term" : "watch",
+		"pronunciation" : "w&#593;t&#643;",
+		"part_of_speech" : "verb",
+		"definition" : [
+			"to catch errors."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"206" : {
+		"term" : "weirdo point",
+		"pronunciation" : "w&#618;&#601;r&#183;do&#650;  p&#596;&#618;nt",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"shallowest point of inflection.",
+			"fake max value."
+		],
+		"source_person" : [
+			"Joseph Palen",
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology",
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"207" : {
+		"term" : "whiff",
+		"pronunciation" : "w&#618;f",
+		"part_of_speech" : "verb",
+		"definition" : [
+			"to fail on a problem."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"208" : {
+		"term" : "whoosh",
+		"pronunciation" : "wu&#643;",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"the shape of a segment of a tangent graph."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"209" : {
+		"term" : "wiggle waggles",
+		"pronunciation" : "w&#618;g&#183;g&#652;l  w&aelig;g&#183;g&#652;ls",
+		"part_of_speech" : "adjective",
+		"definition" : [
+			"describes a function that when converted to parametric yields two sinusoidal functions."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"210" : {
+		"term" : "will's words",
+		"pronunciation" : "w&#618;ls  w&#596;rds",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"words used to remember the answers to multiple choice questions."
+		],
+		"source_person" : [
+			"cit students"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"211" : {
+		"term" : "wolf",
+		"pronunciation" : "wulf",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"someone who hunts for easy problems."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"212" : {
+		"term" : "wrong way",
+		"pronunciation" : "r&#594;ng  we&#618;",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"it's too complicated."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"213" : {
+		"term" : "yesterday",
+		"pronunciation" : "j&#603;&#183;st&#596;r&#183;de&#618;",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"the last day of classs."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"214" : {
+		"term" : "you see, i didn't pay them to say that",
+		"pronunciation" : "jo&#650;  si  e&#618;  d&#618;d&#183;&#603;nt  pe&#618;  &theta;&#603;m  to&#650;  se&#618;  &theta;&aelig;t",
+		"part_of_speech" : "phrase",
+		"definition" : [
+			"something that mrs. norris says in front of important people when cit students start praising documentation and lessons learned."
+		],
+		"source_person" : [
+			"Lynne Norris"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"215" : {
+		"term" : "zintegers",
+		"pronunciation" : "z&#618;n&#183;t&#603;&#183;d&#658;&#596;rs",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"integers."
+		],
+		"source_person" : [
+			"cit students"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"216" : {
+		"term" : "zshwoup",
+		"pronunciation" : "&#643;wup",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"sound that must be made when drawing an exponential function."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"217" : {
+		"term" : "\\\\%",
+		"pronunciation" : "p&#618;&#601;r&#183;s&#603;nt",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"not the modulus operator."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"218" : {
+		"term" : "100\\\\% chance",
+		"pronunciation" : "w&#652;n  h&#652;n&#183;dr&#603;d  p&#618;&#601;r&#183;s&#603;nt  t&#643;&aelig;ns",
+		"part_of_speech" : "noun",
+		"definition" : [
+			"does not mean it will definitely happen."
+		],
+		"source_person" : [
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	},
+	"219" : {
+		"term" : "8 * 9",
+		"pronunciation" : "&#603;t  ta&#618;ms  na&#618;n",
+		"part_of_speech" : "expression",
+		"definition" : [
+			"a math problem that no one in pre-calc knows the answer to.",
+			"it is known to possibly be equal to 56, 71, 73, 76, and 81."
+		],
+		"source_person" : [
+			"Joseph Palen",
+			"Joseph Palen"
+		],
+		"source_school" : [
+			"Center for Information Technology",
+			"Center for Information Technology"
+		],
+		"timestamp" : 1580707202628
+	}
+}

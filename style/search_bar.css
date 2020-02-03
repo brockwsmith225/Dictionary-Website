@@ -1,0 +1,50 @@
+.search-bar {
+	display: block;
+	position: fixed;
+	top: 0;
+	background-color: #2020d3;
+	width: 80vw;
+	padding: 50px 10vw;
+	vertical-align: middle;
+	z-index: 1000;
+}
+
+form#search {
+	display: block;
+}
+
+.search-box {
+	display: inline-block;
+	padding: 15px;
+	background-color: white;
+	float: right;
+	vertical-align: middle;
+}
+
+.search-box-text {
+	border: none;
+	outline: none;
+	font-size: 18pt;
+	width: 20vw;
+	border-right: 2px solid #999;
+	padding-right: 15px;
+	margin-right: 8px;
+}
+
+.search-box-symbol {
+	cursor: pointer;
+	font-size: 14pt;
+	padding: 0;
+	background-color: white;
+	border: none;
+	outline: none;
+}
+
+h1.logo {
+	vertical-align: middle;
+	display: inline-block;
+	color: white;
+	font-size: 36pt;
+	margin: 0;
+	font-family: "Arial", sans-serif;
+}
