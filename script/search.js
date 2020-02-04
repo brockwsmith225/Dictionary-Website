@@ -9,7 +9,7 @@ function search(query) {
 	if (query != "") {
 		query = query.toLowerCase();
 		$.getJSON("data/dictionary.json", function(dictionary) {
-			$("#page-content").append("<h1 class=\"search-term\">\"" + query + "\"</h1>");
+			$("#page-content").prepend("<h1 class=\"search-term\">\"" + query + "\"</h1>");
 			var terms = [];
 			var authors = [];
 			var schools = [];

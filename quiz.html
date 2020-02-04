@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+	<head>
+		<title>Dictionary</title>
+		<link href="vendor/fontawesome-5.12.0/css/all.min.css" rel="stylesheet" type="text/css" />
+		<link href="style/quiz.css" rel="stylesheet" />
+	</head>
+
+	<body>
+		<div id="page-content" class="container">
+			<h1 id="score">Current Score: <span id="percent">0.0</span>% (<span id="correct">0</span>/<span id="total">0</span>)</h1>
+			<h2 id="question" class="question"></h2>
+			<form id="question-form" submit="submit()">
+				<select name="answer" class="answers">
+					<option id="answer-1" value="1"></option>
+					<option id="answer-2" value="2"></option>
+					<option id="answer-3" value="3"></option>
+					<option id="answer-4" value="4"></option>
+				</select>
+				<button class="submit">submit</button>
+			</form>
+		</div>
+
+		<script src="vendor/jquery-3.4.1/jquery.min.js"></script>
+		<script src="script/quiz.js"></script>
+	</body>
+
+</html>
