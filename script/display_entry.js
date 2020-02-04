@@ -9,7 +9,25 @@ function display_entry(term_id) {
 		for (var i = 0; i < entry.definition.length; i++) {
 			$("#" + term_id + " .definitions").html($("#" + term_id + " .definitions").html() + "<li class=\"definition\">" + entry.definition[i] + "<span class=\"source\"><a href=\"?author=" + entry.author[i] + "\">" + entry.author[i] + "</a> / <a href=\"?school=" + entry.school[i] + "\">" + entry.school[i] + "</a></span></li>")
 		}
-		MathJax.Hub.Startup.onload()
+		var script = document.createElement("script");
+		script.type = "text/javascript";
+		script.src = "vendor/mathjax/es5/tex-mml-chtml.js";   // use the location of your MathJax
+
+		var config = 'MathJax.Hub.Config({' +
+		           	'extensions: ["tex2jax.js"],' +
+        			'jax: ["input/TeX", "output/HTML-CSS"],' +
+        			'tex2jax: {' +
+            			'inlineMath: [ ["$","$""], ["\\(","\\)"] ],' +
+            			'displayMath: [ ["$$","$$""], ["\\[","\\]"] ],' +
+        			'},' + 
+        			'"HTML-CSS": { availableFonts: ["TeX"] }' +
+		           	'});' +
+		           	'MathJax.Hub.Startup.onload();';
+
+		if (window.opera) {script.innerHTML = config}
+		           else {script.text = config}
+
+		document.getElementsByTagName("head")[0].appendChild(script);
 	});
 }
 
