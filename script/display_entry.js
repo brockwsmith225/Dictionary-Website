@@ -2,7 +2,7 @@ function display_entry(term_id) {
 	$.getJSON("data/dictionary.json", function(dictionary) {
 		var entry = dictionary[term_id];
 		$("#page-content").append('<div id="' + term_id + '" class=\"entry\">'
-			+ '<h1 class="term">' + entry.term + '</h1>'
+			+ '<a href="?term=' + term_id + '"><h1 class="term">' + entry.term + '</h1></a>'
 			+ '<h2 class="part-of-speech">' + entry.part_of_speech + '.</h2>'
 			+ '<h2 class="pronunciation">/ ' + entry.pronunciation + ' /</h2>'
 			+ '<ol class="definitions"></ol></div>');
