@@ -1771,7 +1771,7 @@
 		"pronunciation" : "l&#618;&#183;m&#618;ts",
 		"part_of_speech" : "?",
 		"definition" : [
-			"$\\forall \\epsilon >0\\ \\exists \\ \\delta >0 \\ni |x-a|<|f(x)-L|<\\epsilon$."
+			"\\(\\forall \\epsilon >0\\ \\exists \\ \\delta >0 \\ni |x-a|<|f(x)-L|<\\epsilon\\)."
 		],
 		"author" : [
 			"Joseph Palen"
@@ -1876,7 +1876,7 @@
 	},
 	"124" : {
 		"term" : "math.pow()",
-		"pronunciation" : "m&aelig;&theta;&#183;d&#594;t&#183;\\textbf{p&#594;w}",
+		"pronunciation" : "m&aelig;&theta;&#183;d&#594;t&#183;p&#594;w",
 		"part_of_speech" : "noun",
 		"definition" : [
 			"pronounced \"math dot pow!!!\"."
@@ -2208,11 +2208,11 @@
 		"timestamp" : 1580707202628
 	},
 	"146" : {
-		"term" : "$\\bm{\\pi /2,\\ \\pi /3,\\ \\pi /6}$ triangle",
+		"term" : "\\(\\bm{\\pi /2,\\ \\pi /3,\\ \\pi /6}\\) triangle",
 		"pronunciation" : "pi  o&#650;&#183;v&#596;r  to&#650;  pi  o&#650;&#183;v&#596;r  &theta;ri  pi  o&#650;&#183;v&#596;r  s&#618;ks  tri&#183;&#601;n&#183;g&#652;l",
 		"part_of_speech" : "noun",
 		"definition" : [
-			"30$^{\\circ}$, 60$^{\\circ}$, 90$^{\\circ}$  triangle."
+			"30\\(^{\\circ}\\), 60\\(^{\\circ}\\), 90\\(^{\\circ}\\)  triangle."
 		],
 		"author" : [
 			"Joseph Palen"
@@ -2473,7 +2473,7 @@
 		"pronunciation" : "skr&#652;m",
 		"part_of_speech" : "noun",
 		"definition" : [
-			"focus \\\\#deliver."
+			"focus #deliver."
 		],
 		"author" : [
 			"Lynne Norris"
@@ -2734,7 +2734,7 @@
 		"pronunciation" : "sp&#593;rk&#183;no&#650;ts",
 		"part_of_speech" : "noun",
 		"definition" : [
-			"\\\\#skinnerapproved, the proper way to read books."
+			"#skinnerapproved, the proper way to read books."
 		],
 		"author" : [
 			"Julie Skinner"
