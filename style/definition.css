@@ -49,3 +49,12 @@ list-style: none;
 	color: #777;
 	margin-left: 5px;
 }
+
+.source a {
+	color: #777;
+	text-decoration: none;
+}
+
+.source a:hover {
+	color: #555;
+}
