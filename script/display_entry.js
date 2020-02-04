@@ -9,7 +9,7 @@ function display_entry(term_id) {
 		for (var i = 0; i < entry.definition.length; i++) {
 			$("#" + term_id + " .definitions").html($("#" + term_id + " .definitions").html() + "<li class=\"definition\">" + entry.definition[i] + "<span class=\"source\"><a href=\"?author=" + entry.author[i] + "\">" + entry.author[i] + "</a> / <a href=\"?school=" + entry.school[i] + "\">" + entry.school[i] + "</a></span></li>")
 		}
-		$("#entry").show();
+		MathJax.Hub.Startup.onload()
 	});
 }
 
