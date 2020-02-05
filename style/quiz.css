@@ -1,15 +1,32 @@
+.container {
+	padding: 100px 20vw;
+}
+
 #score {
-
-}
-
-.question {
-
-}
-
-.answers {
-
+	text-align: center;
+	margin-bottom: 50px;
 }
 
 .answer {
-	
+	display: inline-block;
+	margin-left: 10px;
+	margin-bottom: 15px;
+}
+
+.submit {
+	display: block;
+	margin: 0 auto;
+	font-size: 13pt;
+	color: #2020d3;
+	background-color: white;
+	border: 1px solid #2020d3;
+	outline: none;
+	padding: 5px 10px;
+	cursor: pointer;
+	border-radius: 5px
+}
+
+.submit:hover {
+	color: white;
+	background-color: #2020d3;
 }

@@ -18,16 +18,19 @@ function new_question() {
 			ids.push(id);
 		}
 		var answers = [];
+		var answer_terms = [];
 		while (answers.length < NUMBER_OF_ANSWERS) {
 			var ans = ids[Math.floor(Math.random() * ids.length)];
-			while (ans in answers) ans = ids[Math.floor(Math.random() * ids.length)];
+			while (answer_terms.includes(dictionary[ans].term)) ans = ids[Math.floor(Math.random() * ids.length)];
 			answers.push(ans);
+			answer_terms.push(dictionary[ans].term);
 			$("#answer-" + answers.length).html(dictionary[ans].term);
 		}
 		answer = Math.ceil(Math.random() * 4);
 		var entry = dictionary[answers[answer-1]];
 		$("#question").html(entry.definition[Math.floor(Math.random() * entry.definition.length)]);
 	});
+	latexerize();
 }
 
 $("#submit").click(function() {
