@@ -25,16 +25,21 @@ function new_question() {
 			$("#answer-" + answers.length).html(dictionary[ans].term);
 		}
 		answer = Math.ceil(Math.random() * 4);
-		console.log(answer);
-		console.log(answers[answer]);
 		var entry = dictionary[answers[answer-1]];
 		$("#question").html(entry.definition[Math.floor(Math.random() * entry.definition.length)]);
 	});
 }
 
-function submit() {
-
-}
+$("#submit").click(function() {
+	var selection = $("input[name=answers]:checked").val();
+	$("input[name=answers]:checked").prop("checked", false);
+	if (selection == answer) {
+		correct++;
+	}
+	total++;
+	update_score();
+	new_question();
+});
 
 function update_score() {
 	$("#percent").html(Math.round(correct / total * 100, 1));
