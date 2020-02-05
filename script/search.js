@@ -2,6 +2,7 @@
 let MAX_ENTRIES = -1;
 
 let SEARCH_BY_TERM = true;
+let SEARCH_BY_DEFINITION = true;
 let SEARCH_BY_AUTHOR = false;
 let SEARCH_BY_SCHOOL = false;
 
@@ -11,14 +12,19 @@ function search(query) {
 		$.getJSON("data/dictionary.json", function(dictionary) {
 			$("#page-content").prepend("<h1 class=\"search-term\">\"" + query + "\"</h1>");
 			var terms = [];
+			var definitions = [];
 			var authors = [];
 			var schools = [];
 			for (var id in dictionary) {
 				var entry = dictionary[id];
 				console.log(entry.term);
+				var definition_found = false;
 				var author_found = false;
 				var school_found = false;
 				for (var i = 0; i < entry.definition.length; i++) {
+					if (entry.definition[i].toLowerCase().includes(query)) {
+						definition_found = true;
+					}
 					if (entry.author[i].toLowerCase().includes(query)) {
 						author_found = true;
 					}
@@ -40,10 +46,22 @@ function search(query) {
 					if (!entry_added) {
 						terms.push(id);
 					}
+				} else if (SEARCH_BY_DEFINITION && definition_found) {
+					var entry_added = false;
+					for (var i = 0; i < definitions.length; i++) {
+						if (entry.timestamp > dictionary[definitions[i]].timestamp) {
+							definitions.split(i, 0, id);
+							i = definitions.length;
+							entry_added = true;
+						}
+					}
+					if (!entry_added) {
+						definitions.push(id);
+					}
 				} else if (SEARCH_BY_AUTHOR && author_found) {
 					var entry_added = false;
 					for (var i = 0; i < authors.length; i++) {
-						if (entry.timestamp > dictionary[schools[i]].timestamp) {
+						if (entry.timestamp > dictionary[authors[i]].timestamp) {
 							authors.splice(i, 0, id);
 							i = authors.length;
 							entry_added = true;
@@ -70,6 +88,12 @@ function search(query) {
 			for (var entry in terms) {
 				if (MAX_ENTRIES == -1 || entries_added < MAX_ENTRIES) {
 					display_entry(terms[entry]);
+					entries_added++;
+				}
+			}
+			for (var entry in definitions) {
+				if (MAX_ENTRIES == -1 || entries_added < MAX_ENTRIES) {
+					display_entry(definitions[entry]);
 					entries_added++;
 				}
 			}
