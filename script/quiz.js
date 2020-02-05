@@ -35,13 +35,15 @@ function new_question() {
 
 $("#submit").click(function() {
 	var selection = $("input[name=answers]:checked").val();
-	$("input[name=answers]:checked").prop("checked", false);
-	if (selection == answer) {
-		correct++;
+	if (typeof selection !== 'undefined') {
+		$("input[name=answers]:checked").prop("checked", false);
+		if (selection == answer) {
+			correct++;
+		}
+		total++;
+		update_score();
+		new_question();
 	}
-	total++;
-	update_score();
-	new_question();
 });
 
 function update_score() {
